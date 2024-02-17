@@ -13,7 +13,6 @@
 #include <linux/sched.h>
 #include <linux/spinlock.h>
 #include <asm/barrier.h>
-#include "flask.h"
 #include "security.h"
 #include "sidtab.h"
 
